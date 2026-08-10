@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-kazino-s-bystrym-vyvodom-2026.github.io
+Sitemap: https://top-kazino-s-bystrym-vyvodom-2026.github.io/sitemap.xml
